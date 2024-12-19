@@ -1,4 +1,4 @@
-module github.com/Binject/go-donut
+module github.com/piolug93/go-donut
 
 go 1.16
 
